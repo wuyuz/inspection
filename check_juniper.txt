@@ -1,0 +1,15 @@
+10.22.0.4,show system uptime输出异常值：85 
+10.22.0.5,show system uptime输出异常值：85 
+10.22.0.3,show system uptime输出异常值：85 
+10.45.0.106,show system uptime输出异常值：19 
+10.45.0.104,show system uptime输出异常值：46 
+10.45.0.110,show system uptime输出异常值：47 
+10.60.0.245,show system uptime输出异常值：61 
+10.60.0.239,show system uptime输出异常值：61 
+10.60.0.230,show chassis fpc输出异常值：83 83 
+10.60.0.224,show chassis fpc输出异常值：83 83 
+10.60.0.248,show chassis fpc输出异常值：83 83 83 
+10.22.0.2,show chassis alarms输出异常值：存在Alarm 
+10.44.0.251,show chassis alarms输出异常值：存在Alarm 
+10.60.0.251,show chassis alarms输出异常值：存在Alarm 
+10.60.0.245,show chassis alarms输出异常值：存在Alarm 

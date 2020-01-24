@@ -1,0 +1,35 @@
+10.19.66.1,dis version | include uptime 输出异常值：4 4 4 4 5 
+10.19.0.102,dis version | include uptime 输出异常值：4 4 4 4 5 
+10.19.0.105,dis version | include uptime 输出异常值：6 
+10.19.0.104,dis version | include uptime 输出异常值：2 2 2 2 2 
+10.19.0.111,dis version | include uptime 输出异常值：5 5 2 
+10.19.0.112,dis version | include uptime 输出异常值：2 2 2 2 
+10.19.0.116,dis version | include uptime 输出异常值：3 3 3 2 6 3 
+10.40.0.115,dis version | include uptime 输出异常值：5 5 
+10.40.0.101,dis version | include uptime 输出异常值：5 
+10.45.0.3,dis version | include uptime 输出异常值：4 4 4 4 4 
+172.17.38.88,dis version | include uptime 输出异常值：5 
+172.17.38.3,dis version | include uptime 输出异常值：4 6 5 
+172.17.18.3,dis version | include uptime 输出异常值：6 5 
+10.44.0.32,dis version | include uptime 输出异常值：3 3 3 3 3 3 3 3 3 3 3 3 
+10.41.0.4,dis version | include uptime 输出异常值：6 6 6 6 2 6 
+10.41.0.5,dis version | include uptime 输出异常值：6 6 6 6 2 6 
+10.50.0.3,dis version | include uptime 输出异常值：4 4 4 4 4 4 4 4 4 4 4 
+10.21.1.2,dis version | include uptime 输出异常值：5 5 5 5 5 5 5 5 5 5 
+10.21.1.1,dis version | include uptime 输出异常值：5 5 5 5 5 5 5 5 
+10.21.1.3,dis version | include uptime 输出异常值：5 5 5 5 5 5 5 5 5 5 
+10.21.0.2,dis version | include uptime 输出异常值：5 5 5 5 5 5 5 5 5 5 
+10.21.0.1,dis version | include uptime 输出异常值：5 5 5 5 5 5 5 5 5 5 5 
+10.21.0.3,dis version | include uptime 输出异常值：5 5 5 5 5 5 5 5 5 5 5 5 
+10.21.0.9,dis version | include uptime 输出异常值：5 5 5 5 5 
+10.40.0.10,dis version | include uptime 输出异常值：3 3 3 3 
+10.40.0.11,dis version | include uptime 输出异常值：3 3 3 3 3 3 3 3 3 3 
+10.40.0.14,dis version | include uptime 输出异常值：4 4 4 4 4 4 
+10.45.0.7,dis version | include uptime 输出异常值：4 4 4 4 4 4 4 4 4 4 
+172.17.38.8,dis version | include uptime 输出异常值：4 4 4 4 
+10.50.0.9,dis version | include uptime 输出异常值：2 2 2 2 2 2 
+10.50.0.5,dis version | include uptime 输出异常值：2 
+10.50.0.6,dis version | include uptime 输出异常值：2 2 2 2 2 2 2 2 
+10.50.0.4,dis version | include uptime 输出异常值：4 
+10.21.0.9,display cpu-usage 输出异常值：87 
+10.21.0.9,display device 输出异常值：存在异常值：Abnormal 
